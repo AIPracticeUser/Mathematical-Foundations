@@ -5,6 +5,7 @@
 
 --------------------------------------------------------
 # Linear Algebra
+## Solving for Unknowns within the systems of Linear Equations
 ![image](https://user-images.githubusercontent.com/100339175/217941391-052f4bac-5f0b-4329-a7e1-1329c3b6450c.png)
 ![image](https://user-images.githubusercontent.com/100339175/217941516-5030145b-f7e2-4ee7-82c0-63e877873eca.png)
 
