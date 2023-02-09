@@ -26,3 +26,5 @@ https://github.com/AIPracticeUser/Mathematical-Foundations/blob/09b45bd0f4f86125
 - Denoted in lowercase, italics, bold, eg: x
 - Arrange in an order, so element can be accessed by its index
 - example [x1 x2] = [12 4]
+- Represent a point in space
+- Vector of length two represents location in 2D matrix
