@@ -25,6 +25,10 @@ https://github.com/AIPracticeUser/Mathematical-Foundations/blob/09b45bd0f4f86125
 - One-dimensional array of numbers
 - Denoted in lowercase, italics, bold, eg: x
 - Arrange in an order, so element can be accessed by its index
-- example [x1 x2] = [12 4]
+  - example [x1 x2] = [12 4]
 - Represent a point in space
-- Vector of length two represents location in 2D matrix
+  -  Vector of length two represents location in 2D matrix
+  -  Length of three represents location in 3D cube
+  -  Length of n represents location in n-dimensional tensor
+  -  ![image](https://user-images.githubusercontent.com/100339175/217951812-6542383e-4435-4eb9-a6ac-2aed624109cb.png)
+
