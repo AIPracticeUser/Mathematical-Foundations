@@ -20,3 +20,9 @@ https://github.com/AIPracticeUser/Mathematical-Foundations/blob/09b45bd0f4f86125
 - Single number
 - Denoted in lowercase, italics, e.g.: x
 - Should be typed like all other tensors: eg, int, float32
+
+## Vectors
+- One-dimensional array of numbers
+- Denoted in lowercase, italics, bold, eg: x
+- Arrange in an order, so element can be accessed by its index
+example $ [x1 x2] = [12 4]
