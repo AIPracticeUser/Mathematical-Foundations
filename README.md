@@ -15,3 +15,8 @@ https://github.com/AIPracticeUser/Mathematical-Foundations/blob/09b45bd0f4f86125
 # Tensors
 ## "ML generalization of vectors and matrices to any number of dimensions"
 ![image](https://user-images.githubusercontent.com/100339175/217940322-937024fa-d00b-461f-9cd9-6e9cda6dbaa6.png)
+## Scalars
+- No dimensions
+- Single number
+- Denoted in lowercase, italics, e.g.: x
+- Should be typed like all other tensors: eg, int, float32
