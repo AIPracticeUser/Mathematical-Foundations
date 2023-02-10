@@ -39,6 +39,8 @@ https://github.com/AIPracticeUser/Mathematical-Foundations/blob/09b45bd0f4f86125
   -  Measures simple (Euclidean) distance from origin (example point 0,0)
   -  Most common norm in machine learning
 - ![image](https://user-images.githubusercontent.com/100339175/218038487-ffe47492-13fe-4fcd-ae4d-1026559457d9.png)
+- ![image](https://user-images.githubusercontent.com/100339175/218040094-ad64bb27-0294-4512-836a-9d42e80f3cce.png)
+
  
 
 
