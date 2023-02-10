@@ -30,5 +30,7 @@ https://github.com/AIPracticeUser/Mathematical-Foundations/blob/09b45bd0f4f86125
   -  Vector of length two represents location in 2D matrix
   -  Length of three represents location in 3D cube
   -  Length of n represents location in n-dimensional tensor
-  -  ![image](https://user-images.githubusercontent.com/100339175/217951812-6542383e-4435-4eb9-a6ac-2aed624109cb.png)
+-  ![image](https://user-images.githubusercontent.com/100339175/217951812-6542383e-4435-4eb9-a6ac-2aed624109cb.png)
+  - Why a need to transpose vectors or matrices ?
+  - "These ML models are nothing but a series of linear transformation of matrices (leave aside non-linear activation at the moment). Thus, you’ll need to match the matrix dimensions for computation, and that’s really the only reason you transpose matrices"
 
