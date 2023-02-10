@@ -35,6 +35,7 @@ https://github.com/AIPracticeUser/Mathematical-Foundations/blob/09b45bd0f4f86125
   - "These ML models are nothing but a series of linear transformation of matrices (leave aside non-linear activation at the moment). Thus, you’ll need to match the matrix dimensions for computation, and that’s really the only reason you transpose matrices"
 - ![image](https://user-images.githubusercontent.com/100339175/218033675-8c88c52a-eac0-4f39-a406-296e49798be7.png)
 - ![image](https://user-images.githubusercontent.com/100339175/218036041-479944b8-40c7-4ffa-94e4-52e5da06d757.png)
+  - Forumla: Square of the element in the vector, Sum them up and Square root to get the result
   -  Measures simple (Euclidean) distance from origin (example point 0,0)
   -  Most common norm in machine learning
 
