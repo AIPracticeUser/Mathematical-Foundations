@@ -47,7 +47,7 @@ https://github.com/AIPracticeUser/Mathematical-Foundations/blob/09b45bd0f4f86125
 - ![image](https://user-images.githubusercontent.com/100339175/218071824-bab527ee-0d6e-478c-9dd4-fb16cc7867af.png)
 - ![image](https://user-images.githubusercontent.com/100339175/218072007-e8d44ead-6681-477d-bc00-ed74b87353a7.png)
 
-# Tensors
+# Matrices
 ![image](https://user-images.githubusercontent.com/100339175/218075781-4d1c53b4-da5f-4009-a500-7b7547242b0c.png)
 
  
