@@ -12,7 +12,7 @@
 https://github.com/AIPracticeUser/Mathematical-Foundations/blob/09b45bd0f4f86125ff6c01cc42f14cb2c75e36a5/Maths_1_(Linear_Algebra).ipynb
 --------------------------------------------------------
 
-# Tensors
+# Dimensions( Rank 0 to N tensors)
 ## "ML generalization of vectors and matrices to any number of dimensions"
 ![image](https://user-images.githubusercontent.com/100339175/217940322-937024fa-d00b-461f-9cd9-6e9cda6dbaa6.png)
 ## Scalars
@@ -46,6 +46,10 @@ https://github.com/AIPracticeUser/Mathematical-Foundations/blob/09b45bd0f4f86125
 ## Special Cases Vectors
 - ![image](https://user-images.githubusercontent.com/100339175/218071824-bab527ee-0d6e-478c-9dd4-fb16cc7867af.png)
 - ![image](https://user-images.githubusercontent.com/100339175/218072007-e8d44ead-6681-477d-bc00-ed74b87353a7.png)
+
+# Tensors
+![image](https://user-images.githubusercontent.com/100339175/218075781-4d1c53b4-da5f-4009-a500-7b7547242b0c.png)
+
  
 
 
