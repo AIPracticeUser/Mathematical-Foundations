@@ -38,5 +38,7 @@ https://github.com/AIPracticeUser/Mathematical-Foundations/blob/09b45bd0f4f86125
   - Forumla: Square of the element in the vector, Sum them up and Square root to get the result
   -  Measures simple (Euclidean) distance from origin (example point 0,0)
   -  Most common norm in machine learning
+- ![image](https://user-images.githubusercontent.com/100339175/218038487-ffe47492-13fe-4fcd-ae4d-1026559457d9.png)
+ 
 
 
