@@ -43,6 +43,10 @@ https://github.com/AIPracticeUser/Mathematical-Foundations/blob/09b45bd0f4f86125
 - ![image](https://user-images.githubusercontent.com/100339175/218041228-bf12b749-81c5-4d07-803e-a2e673db79b5.png)
 - ![image](https://user-images.githubusercontent.com/100339175/218042502-17394b38-d6b7-4cfb-85c1-b4baee88c69e.png)
 - ![image](https://user-images.githubusercontent.com/100339175/218043467-4d36943b-c6c5-4d81-a0d5-3bf7eabc6b87.png)
+## Special Cases Vectors
+- ![image](https://user-images.githubusercontent.com/100339175/218071824-bab527ee-0d6e-478c-9dd4-fb16cc7867af.png)
+- ![image](https://user-images.githubusercontent.com/100339175/218072007-e8d44ead-6681-477d-bc00-ed74b87353a7.png)
+ 
 
 
 
