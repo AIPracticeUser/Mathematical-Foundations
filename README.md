@@ -33,4 +33,5 @@ https://github.com/AIPracticeUser/Mathematical-Foundations/blob/09b45bd0f4f86125
 -  ![image](https://user-images.githubusercontent.com/100339175/217951812-6542383e-4435-4eb9-a6ac-2aed624109cb.png)
   - Why a need to transpose vectors or matrices ?
   - "These ML models are nothing but a series of linear transformation of matrices (leave aside non-linear activation at the moment). Thus, you’ll need to match the matrix dimensions for computation, and that’s really the only reason you transpose matrices"
+- ![image](https://user-images.githubusercontent.com/100339175/218033675-8c88c52a-eac0-4f39-a406-296e49798be7.png)
 
