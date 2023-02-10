@@ -41,6 +41,8 @@ https://github.com/AIPracticeUser/Mathematical-Foundations/blob/09b45bd0f4f86125
 - ![image](https://user-images.githubusercontent.com/100339175/218038487-ffe47492-13fe-4fcd-ae4d-1026559457d9.png)
 - ![image](https://user-images.githubusercontent.com/100339175/218040094-ad64bb27-0294-4512-836a-9d42e80f3cce.png)
 - ![image](https://user-images.githubusercontent.com/100339175/218041228-bf12b749-81c5-4d07-803e-a2e673db79b5.png)
+- ![image](https://user-images.githubusercontent.com/100339175/218042502-17394b38-d6b7-4cfb-85c1-b4baee88c69e.png)
+
 
 
  
